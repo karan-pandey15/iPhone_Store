@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    bottom: 0;
+    box-sizing: border-box;
+}
+
+.bottom{
+    bottom: 0;
+    position: fixed;
+}
+.hw{
+    height: 40vh;
+    width: 40vw;
+    
+    margin: 0 2px;
+}
+.imgsize{
+    height: 250px;
+    width: 260px;
+}
